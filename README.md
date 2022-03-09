@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/973f9ae5-3f77-475e-adf8-1c1d3a0bd3cf.svg)](https://wakatime.com/@973f9ae5-3f77-475e-adf8-1c1d3a0bd3cf)
 <!--
 **EscanorTargaryen/EscanorTargaryen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
