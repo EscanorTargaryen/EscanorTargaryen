@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on [UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI) and [UltimateAdvancementGenerator](https://frengor.com/UltimateAdvancementAPI/generator/)
+- 🔭 I’m currently working on [UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI)
 - 🌱 I’m currently learning Flutter
 - 🙋🏻‍♂️ Developer of [MultiCore Network](https://multicore.network/) and Student of [UNIMORE University](https://www.unimore.it/)
 - 📈 Junior entrepreneur of [JEMORE](https://jemore.it/)
