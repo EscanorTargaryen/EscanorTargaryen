@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - 🔭 I’m currently working on [UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI)
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Angular
 - 🙋🏻‍♂️ Developer of [MultiCore Network](https://multicore.network/) and Student of [UNIMORE University](https://www.unimore.it/)
 - 📈 Junior entrepreneur of [JEMORE](https://jemore.it/)
 
