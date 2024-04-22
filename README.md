@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on UltimateAdvancementGenerator v2
+- 🔭 I’m currently working on DevHeim Plugin Community
 - 🌱 I’m currently learning AI and Web development
-- 🙋🏻‍♂️ Developer of [MultiCore Network](https://multicore.network/) and Student of [UNIMORE University](https://www.unimore.it/)
+- 🙋🏻‍♂️ Developer of [MultiCore Network](https://multicore.network/) and AI Student of [UNIMORE University](https://www.unimore.it/)
 - 📈 Ex Junior entrepreneur of [JEMORE](https://jemore.it/)
 
 ## My stats:
